@@ -1,0 +1,15 @@
+{
+  "title": "braille-input-methord",
+  "name": "braille-input",
+  "version": "0.0.1",
+  "description": "A six key input methord for firefox",
+  "main": "index.js",
+  "author": "Anwar N",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
